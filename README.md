@@ -1,3 +1,2 @@
 # Personal-website
-This is my personal
-he
+This is my personal website
